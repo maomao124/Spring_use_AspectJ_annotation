@@ -68,6 +68,18 @@
             <artifactId>aspectjweaver</artifactId>
             <version>1.9.8</version>
         </dependency>
+        <!--spring jdbc-->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-jdbc</artifactId>
+            <version>5.3.16</version>
+        </dependency>
+        <!--spring事务处理-->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-tx</artifactId>
+            <version>5.3.16</version>
+        </dependency>
         <!--日志相关-->
         <dependency>
             <groupId>commons-logging</groupId>
